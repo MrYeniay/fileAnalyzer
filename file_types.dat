@@ -1,0 +1,85 @@
+7 RAR (v4.x)
+52 61 72 21 1A 07 00
+8 DOCX PPTX XLSX
+50 4B 03 04 14 00 06 00
+18 TRUEVISION-XFILE
+54 52 55 45 56 49 53 49 4F 4E 2D 58 46 49 4C 45 2E 00
+8 TBI Windows Disk Image File
+00 00 00 00 14 00 00 00
+24 DAT Bitcoin Core Wallet File
+00 00 00 00 62 31 05 00 09 00 00 00 00 20 00 00 00 09 00 00 00 00 00 00
+10 JP2 Various JPEG-2000 image file formats
+00 00 00 0C 6A 50 20 20 0D 0A
+11 3GG, 3GP, 3G2 Media files
+00 00 00 14 66 74 79 70 33 67 70
+12 MP4 ISO Base media file (MPEG-4)v1
+00 00 00 14 66 74 79 70 69 73 6F 6D
+12 MOV QuickTime movie file
+00 00 00 14 66 74 79 70 71 74 20 20
+12 MP4 MPEG-4 video files
+00 00 00 18 66 74 79 70 33 67 70 35
+12 M4V MPEG-4 / QuickTime video file
+00 00 00 18 66 74 79 70 6D 70 34 32
+24 MP4 MPEG-4 video file
+00 00 00 1C 66 74 79 70 4D 53 4E 56 01 29 00 46 4D 53 4E 56 6D 70 34 32
+12 M4A Apple lossless audio codec file
+00 00 00 20 66 74 79 70 4D 34 41 20
+4 ICO, SPL Windows icon file / Windows NT-XP printer spool file
+00 00 01 00
+4 MPG, VOB DVD Video movie file
+00 00 01 BA
+4 CUR WB2 Windows cursor file / QuattroPro for Windows Spreadsheet file
+00 00 02 00
+5 PIC Unknown type picture file
+01 00 00 00 01
+6 WMF Windows metadata file (Win 3.x format)
+01 00 09 00 00 03
+12 TBI The Bat secure e-mail message base index file
+01 01 47 19 A4 00 00 00 00 00 00 00
+4 MDF Microsoft SQL server 2000 database
+01 0F 00 00
+2 TAR.Z Compressed tape archive file using standard (Lempel-Ziv-Welch) compression
+1F 9D
+2 TAR.Z Compressed tape archive file using LZH (Lempel-Ziv-Huffman) compression
+1F A0
+8 LIB Unix archiver (ar) files and Microsoft Program Library Common Object File Format (COFF)
+21 3C 61 72 63 68 3E 0A
+16 VMDK VMware 4 Virtual Disk description file (split disk)
+23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F
+4 PDF, FDF Adobe Portable Document Format
+25 50 44 46
+4 PSD Photoshop image file
+38 42 50 53
+3 AES AES Crypt file format
+41 45 53
+2 BMP, DIB Bitmap file
+42 4D
+3 BZ2, TAR.BZ2, TBZ2, TB2 bzip2 compressed archive
+42 5A 68
+5 ISO ISO-9660 CD Disk image
+43 44 30 30 31
+3 SWF Macromedia shockwave flash player file(zlib compressed) v6+
+43 57 53
+3 SWF Macromedia shockwave flash player(uncompressed)
+46 57 53
+4 FLV Flash video file
+46 4C 56 01
+6 GIF Graphics interchange format file
+47 49 46 38 37 61
+6 GIF Graphics interchange format file
+47 49 46 38 39 61
+4 PAT GIMP pattern file
+47 50 41 54
+3 MP3 MPEG-1 Audio layer 3 audio file
+49 44 33
+2 COM, DLL, DRV, EXE, PIF, QTS, QTX, SYS Windows/DOS executable file
+4D 5A
+4 ZIP PKZIP archive file
+50 4B 03 04
+8 EPUB Open publication structure ebook file
+50 4B 03 04 0A 00 02 00
+14 ZIP ZLock Pro encrypted ZIP
+50 4B 03 04 14 00 01 00 63 00 00 00 00 00
+10 JAR Java Archive
+50 4B 03 04 14 00 08 00 08 00
+
