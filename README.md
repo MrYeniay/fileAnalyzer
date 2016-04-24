@@ -3,5 +3,5 @@ Kod içerisinde adı belirtilen dosyayı veritabanındaki dosya imzalarıyla kar
 
 
 TODO: 
--imzası bulunan dosyayı ayrıştırmak.
+-imzası bulunan dosyayı ayrıştırmak.<br>
 -arama yapılan dosyayı tersten aramak.
